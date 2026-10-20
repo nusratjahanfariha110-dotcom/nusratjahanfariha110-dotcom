@@ -1,16 +1,19 @@
-## Hi there 👋
+# Nusrat Jahan Fariha
 
-<!--
-**nusratjahanfariha110-dotcom/nusratjahanfariha110-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics & Data Science student at Jahangirnar University, Bangladesh.  
+Interested in data analysis, statistics, visualization, and research.
 
-Here are some ideas to get you started:
+## Skills
+- Microsoft Excel: data cleaning, PivotTables, PivotCharts, dashboards
+- Data visualization and exploratory analysis
+- GitHub for project documentation and portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Netflix Movies & TV Shows Analysis](YOUR_REPOSITORY_LINK)  
+  Analyzed Netflix content using Excel PivotTables and charts to identify  
+  content type, countries, genres, ratings, and duration patterns.
+
+## Currently Learning
+- Microsoft Word and Powerpoint
+- Canva 
+- Python for data analysis
